@@ -4,6 +4,9 @@ it is my first time to create a blog...
 
 ## 🛠️ 准备工作
 - 安装Git：[下载地址](https://git-scm.com/)
+  ```powershell
+  choco install git -y
+  ```
 - 代码编辑器推荐：VS Code
 
 ## ⚙️ 技术栈选择
