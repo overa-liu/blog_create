@@ -18,6 +18,7 @@ it is my first time to create a blog...
 | 1    | Hugo + GitHub Pages | ★★☆ |
 | 2    | Jekyll | ★★★ |
 | 3    | 手动HTML/CSS | ★☆☆ |
+根据一番调研，好像hugo建立博客，写博客的速度比较快，所以选择hugo + GitHub page的方式
 
 ## 🚀 快速开始
 ```bash
