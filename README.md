@@ -39,6 +39,13 @@ Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManage
 ```powershell
 choco -v
 ```
+# Git安装
+1.安装命令：
+```powershell
+choco install git -y
+```
+2.首次配置：
+
 
 
 
